@@ -1,6 +1,6 @@
-# Curso-WEB -- Seção Acordeões
+# Curso-WEB -- Caixa de pesquisa do Google
 
-Projeto de desenvolvimento Seção Acordeões
+Projeto de desenvolvimento Caixa de pesquisa do Google
 
 Atividade curso Web
 
