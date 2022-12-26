@@ -1,6 +1,6 @@
-# Curso-WEB -- Caixa de pesquisa do Google
+# Curso-WEB -- Menu - CSS Tab
 
-Projeto de desenvolvimento Caixa de pesquisa do Google
+Projeto de desenvolvimento Menu - CSS Tab
 
 Atividade curso Web
 
